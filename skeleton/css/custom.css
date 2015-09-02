@@ -103,6 +103,7 @@ a:hover {
 .button {
   font-size: 2rem;
   margin-bottom: 60px;
+  white-space: normal;
 }
 
 .button.button-primary,
