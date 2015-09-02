@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How-to Videos
+title: Stretching Videos
 permalink: /videos/
 ---
 
