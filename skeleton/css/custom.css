@@ -62,11 +62,11 @@ li {
 
   #main ul li {
     list-style: circle;
-    margin-left: 45px;
+    margin-left: 25px;
   }
 
   #main ol li {
-    margin-left: 45px;
+    margin-left: 25px;
   }
 
 .u-f-small {
