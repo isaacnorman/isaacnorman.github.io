@@ -295,7 +295,7 @@ header {
 /* site logo */
 
 .site-logo {
-  max-width: 90%;
+  max-width: 100%;
   margin: 0 auto;
   display: block;
   padding-bottom: 15px;
@@ -305,7 +305,7 @@ header {
     .site-logo {
   height: 100px;
   }
-
+}
   @media (min-width: 1000px) {
     .site-logo {
       display: block;
