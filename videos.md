@@ -1,66 +1,63 @@
 ---
 layout: page
-title: Videos
+title: How-to Videos
 permalink: /videos/
 ---
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/gt0mqUByH2A" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/BYUobVqtwPo" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=gt0mqUByH2A
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/e0PUK81Z-vQ" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=BYUobVqtwPo
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/ZosDs_3wmog" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=e0PUK81Z-vQ
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/PT7-50UwDKA" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=ZosDs_3wmog
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/QiMFs3cc6PY" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=PT7-50UwDKA
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Xxk91q_tujA" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=QiMFs3cc6PY
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/9Fok5zAMKIA" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=Xxk91q_tujA
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Z1iZVPzjYu4" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=9Fok5zAMKIA
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/bSQDWncUUsA" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=Z1iZVPzjYu4
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/fotrkQ2hiMA" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=bSQDWncUUsA
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/tMYxtOq812o" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=fotrkQ2hiMA
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Ts_n6totasg" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=tMYxtOq812o
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/1ARxYvAvREU" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=Ts_n6totasg
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/mokiLKwOSTg" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=1ARxYvAvREU
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/AnoSUAgEPRc" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=mokiLKwOSTg
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/kWnIAJVptEE" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=AnoSUAgEPRc
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/NEibsyGcu_s" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=kWnIAJVptEE
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/UccvJJQ9oBE" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=NEibsyGcu_s
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/CwPHx3Z0chw" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=UccvJJQ9oBE
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/0QhuCjPFiUE" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=CwPHx3Z0chw
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/2I1E15hx-nk" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=0QhuCjPFiUE
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/oacdMtQHrOc" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=2I1E15hx-nk
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/7oW9Xk5d8iw" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=oacdMtQHrOc
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/iySv4Nf-s48" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=7oW9Xk5d8iw
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/ZAoFjfwvMiA" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=iySv4Nf-s48
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/BtIgZmcEDRg" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=ZAoFjfwvMiA
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-Jxkr7WPyaU" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=BtIgZmcEDRg
-
-https://www.youtube.com/watch?v=-Jxkr7WPyaU
-
-https://www.youtube.com/watch?v=9oFLHXCsaOQ
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/9oFLHXCsaOQ" frameborder="0" allowfullscreen></iframe>
