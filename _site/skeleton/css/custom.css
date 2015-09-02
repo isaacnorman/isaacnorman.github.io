@@ -104,6 +104,7 @@ a:hover {
   font-size: 2rem;
   margin-bottom: 60px;
   white-space: normal;
+  height: auto !important;
 }
 
 .button.button-primary,
