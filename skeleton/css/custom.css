@@ -295,10 +295,15 @@ header {
 /* site logo */
 
 .site-logo {
-  height: 100px;
+  max-width: 90%;
   margin: 0 auto;
   display: block;
   padding-bottom: 15px;
+  }
+
+  @media (min-width: 550px) {
+    .site-logo {
+  height: 100px;
   }
 
   @media (min-width: 1000px) {
