@@ -220,6 +220,11 @@ iframe {margin-bottom: 30px;}
     margin: 0 auto;
   }
 
+  .site-avatar-mini {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
   @media (min-width: 550px) {
     .site-avatar {
 
@@ -380,7 +385,27 @@ section#top-bar p {
 
 
 
-/* --- */
+/* page-intro */
+
+.page-intro {
+  padding-bottom: 30px;
+}
+  .page-intro hr,
+  .clients hr,
+  hr {
+    padding-top: 30px !important;
+    border-top: 5px solid #e0e0e0 !important;
+  }
+  .page-intro.testimonial {
+    margin-top: 60px;
+  }
+
+/* blockquote */
+
+blockquote {
+  border-left: 5px solid #214194;
+  padding-left: 15px;
+}
 
 
 .entry,

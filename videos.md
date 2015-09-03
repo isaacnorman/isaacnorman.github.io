@@ -4,6 +4,15 @@ title: Stretching Videos
 permalink: /videos/
 ---
 
+<section class="page-intro">
+<img src="{{ site.baseurl }}/images/isaac-norman-massage.png" alt="Isaac Norman massage" class="site-avatar site-avatar-mini">
+
+<p class="u-f-big u-c-txt">"Use the stretches in these videos to help keep your body mobile."</p>
+
+<hr>
+
+</section>
+
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/gt0mqUByH2A" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/BYUobVqtwPo" frameborder="0" allowfullscreen></iframe>
@@ -61,3 +70,5 @@ permalink: /videos/
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-Jxkr7WPyaU" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/9oFLHXCsaOQ" frameborder="0" allowfullscreen></iframe>
+
+<p class="u-f-big u-c-txt" style="margin-top: 60px;">Do you have a question? <a href="{{ site.baseurl}}/contact">Feel free to ask</a>.</p>

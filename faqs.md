@@ -4,6 +4,15 @@ title: FAQs
 permalink: /faqs/
 ---
 
+<section class="page-intro">
+<img src="{{ site.baseurl }}/images/isaac-norman-massage.png" alt="Isaac Norman massage" class="site-avatar site-avatar-mini">
+
+<p class="u-f-big u-c-txt">"Get answers to your questions about how massage can help you."</p>
+
+<hr>
+
+</section>
+
 ### Q.  Why is massage good for me?
 
 The short answer is, it makes you feel better!
@@ -29,6 +38,8 @@ It is also important to avoid alcohol, coffee, and energy drinks after a treatme
 It’s a good idea to drink lots of water for the rest of the day to help flush the toxins out of the system too.  When you come and see me, I’ll also give you some self help tips, which include things like stretches and specific exercises to work on your particular trouble area.  You will be feeling better in no time!
 
 ### Q.  I’ve got sensitive skin.  Will your massage oil irritate my skin?
-The oil I use is high quality and does not cause a reaction for most people.  However I can do most of the techniques without oil, using pressure and gentle stretching.
+The oil I use is high quality and does not cause a reaction for most people. However I can do most of the techniques without oil, using pressure and gentle stretching.
 
-Do you have a question? [Feel free to ask]({{ site.baseurl}}/contact).
+<p class="u-f-big u-c-txt" style="margin-top: 60px;">Got another question? <a href="{{ site.baseurl}}/contact">Just ask</a>.</p>
+
+<p class="u-f-big u-c-txt" style="margin-top: 60px;">Next: <a href="{{ site.baseurl}}/videos">Check out some stretching videos</a> for use after your treatment.</p>
