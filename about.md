@@ -39,7 +39,7 @@ Look after your body, it’s the only one you’ve got.
 
 <img src="{{ site.baseurl }}/images/krista-lee-massage.png" alt="Krista Lee massage" class="site-avatar site-avatar-mini">
 
-## Meet Krista
+## Meet Krista Lee
 
 You'll also get to be treated by my colleague Krista Lee. Krista has over 10 years experience and has worked with athletes both at national and international levels. She's a highly skilled and experienced practitioner and it’s a joy to have her on the NZ Body Mechanic team.
 
