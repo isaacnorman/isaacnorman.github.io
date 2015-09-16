@@ -22,7 +22,7 @@ After a serious injury to my lower back in 2001, I found a great osteopath who h
 * I began training as a massage therapist in Christchurch in 2001.
 * I am now qualified with a Bachelor of Applied Science in Human Biology and a Diploma in Massage.
 * I have taught massage as a senior tutor at Wellpark College in Auckland for two years
-* I have more than 10 years clinical experience in New Zealand and overseas.
+* I have more than 12 years clinical experience in New Zealand and overseas.
 * My clinic, NZ Body Mechanic, is located in Westmere, Auckland.
 
 ## My approach
@@ -41,6 +41,6 @@ Look after your body, it’s the only one you’ve got.
 
 ## Meet Krista
 
-You'll also get to be treated by my colleague Krista Lee. Krista has over 11 years experience and has worked with athletes both at national and international levels. She's a highly skilled and experienced practitioner and it’s a joy to have her on the NZ Body Mechanic team.
+You'll also get to be treated by my colleague Krista Lee. Krista has over 10 years experience and has worked with athletes both at national and international levels. She's a highly skilled and experienced practitioner and it’s a joy to have her on the NZ Body Mechanic team.
 
 <p class="u-f-big u-c-txt" style="margin-top: 60px;">Next: <a href="{{ site.baseurl}}/clients">Read feedback from our clients</a>.</p>
