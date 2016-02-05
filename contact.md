@@ -19,6 +19,7 @@ permalink: /contact/
 
 <p>To make a booking, check availability, get further information, or ask about any of the services we offer, you can:</p>
 
+<p><a href="https://nzbodymechanic.gettimely.com/book" target="_blank">Book online</a> (easiest option)</p>
 <p>Call Isaac on <a href="tel:61-21-0230-0230">021 0230 7287</a></p>
 <p>Send Isaac an <a href="mailto:isaacjamesnorman@gmail.com">email</a></p>
 <p>Connect with us on <a href="https://www.facebook.com/pages/NZbodymechanic/126774667335479" target="_blank">Facebook</a> and <a href="http://nz.linkedin.com/in/isaacjamesnorman" target="_blank">LinkedIn</a></p>
