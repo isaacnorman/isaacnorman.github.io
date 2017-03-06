@@ -71,4 +71,10 @@ permalink: /videos/
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/9oFLHXCsaOQ" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/H2OTKnwXKxY" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/zc4IMjHmqTc" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rENDvFrY5Lo" frameborder="0" allowfullscreen></iframe>
+
 <p class="u-f-big u-c-txt" style="margin-top: 60px;">Do you have a question? <a href="{{ site.baseurl}}/contact">Feel free to ask</a>.</p>
